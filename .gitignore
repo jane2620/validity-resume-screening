@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~       
+.DS_Store
+
+# Large data files and results
+data/
+evaluations/
+logs/
+
+# Cache
+.cache/
+*.cache
+analysis/cache/
+
+# Aggregated figures and metrics (can be regenerated)
+analysis/figures_*/
+analysis/aggregates_*/
+analysis/metrics_*/ 
+analysis/tables/
+analysis/*.csv
+
+# Old/archived files
+old/
+
+# Temporary files
+*.log
+*.tmp
+/tmp/
+nohup.out
+
+# API keys (never commit these!)
+.env
+*.env
+secrets.py
+ui/secrets.py
+
+# Model checkpoints and weights
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Slurm logs
+slurm-*.out
+
+# UI Files
+ui/
+Dockerfile
+requirements-ui.txt

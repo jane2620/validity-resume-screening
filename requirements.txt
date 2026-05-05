@@ -1,0 +1,25 @@
+beautifulsoup4==4.12.3
+lxml==5.2.1
+requests==2.32.3
+pandas==2.2.2
+tqdm==4.66.5
+orjson==3.10.7
+pydantic==2.9.2
+httpx==0.27.2
+backoff==2.2.1
+numpy==2.0.2
+matplotlib==3.9.2
+seaborn==0.13.2
+python-dateutil==2.9.0.post0
+PyYAML==6.0.2
+streamlit>=1.30.0
+PyPDF2>=3.0.0
+python-docx>=1.1.0
+
+# Training deps for SFT (install in your environment as needed)
+torch>=2.2.0
+transformers>=4.43.0
+accelerate>=0.33.0
+# Optional for 4-bit quantization; skip if unavailable
+bitsandbytes>=0.43.0
+
