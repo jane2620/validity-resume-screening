@@ -1,0 +1,11 @@
+{
+  "roles": [
+    "Retail Associate"
+  ],
+  "per_role_target": 100,
+  "require_basic": 0,
+  "require_bonus": 0,
+  "counts": {
+    "Retail Associate": 25
+  }
+}

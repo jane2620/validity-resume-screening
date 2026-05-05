@@ -1,0 +1,11 @@
+{
+  "roles": [
+    "Software Engineer"
+  ],
+  "per_role_target": 100,
+  "require_basic": 0,
+  "require_bonus": 0,
+  "counts": {
+    "Software Engineer": 100
+  }
+}

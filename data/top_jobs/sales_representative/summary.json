@@ -1,0 +1,11 @@
+{
+  "roles": [
+    "Sales Representative"
+  ],
+  "per_role_target": 100,
+  "require_basic": 0,
+  "require_bonus": 0,
+  "counts": {
+    "Sales Representative": 100
+  }
+}

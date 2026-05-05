@@ -1,0 +1,403 @@
+{
+    "role": "Software Engineer",
+    "ID": "1", 
+    "link" : "https://www.reddit.com/r/resumes/comments/1o01cn0/3_yoe_unemployed_software_engineer_usa/",
+    "resume_text" : """<p>EXPERIENCE</p>
+<p>Software Engineer
+Company Name
+Jan 2024 – May 2025
+City, California
+• Built a desktop application from inception to deployment for the [Government Agency] using VB.NET, enhancing data input workflows and reliability.
+• Built features for the [Project Name] application from project inception, working across the stack with Spring, SQL, and React Native, and served as the primary presenter to EPA scientists to share technical updates and gather feedback.
+• Developed and maintained scalable microservices on AWS, improving application modularity and deployment efficiency using technologies such as SQS, SES, SNS, S3, Lambda and more.
+• Designed and implemented parallel programming solutions, reducing runtime by 50% for key processes.
+• Delivered new features across multiple applications using Java, Spring, React, React Native, JavaScript, SQL, and other modern technologies.
+• Ensured code quality and maintainability through unit testing, code reviews, and continuous integration practices.</p>
+<p>Software Engineer Intern
+Company Name (Same as Fulltime)
+March 2022 – December 2023
+City, California
+• Promoted to lead developer on both the corporate website and [Project Name], becoming the first intern in company history to lead two projects concurrently while still in university.
+• Revitalized the company’s Drupal-based corporate website after a failed contractor handoff, implementing new features in JavaScript, jQuery, and CSS, in collaboration with project leads to meet evolving business needs.
+• Led development on [Project Name], a national record-keeping platform used by multiple U.S. state environmental agencies, utilizing a stack of Coldfusion, SQL, JavaScript, and EC2 for hosting.
+• Built and deployed AWS Lambda functions to streamline and optimize file processing in Amazon S3, improving system performance and reliability.
+• Contributed to Android application development using Maven, Java, and React Native</p>
+<p>EDUCATION</p>
+<p>No Name School
+Bachelor of Science in Computer Science
+City, CA
+Jan. 2022 – Dec. 2023</p>
+<p>Community College
+Associate’s in Computer Science
+City, CA
+May 2018 – Dec. 2021</p>
+<p>PROJECTS</p>
+<p>Project Name | MongoDB, Express.js, React, Node.js
+Jan. 2022 – May 2022
+• Acted as lead developer for a full-stack social paper trading platform overseeing architecture, security, and UI/UX development with React and Material UI.
+• Designed and implemented a secure password hashing system, incorporating modern best practices.
+• Collaborated with another developer to implement a CI/CD pipeline, automating builds, tests, and deployment.</p>
+<p>Project Name | Python, React, react-bootstrap, Springboot, MongoDB, Docker
+Jan 2023
+• Developed a Python script to scrape multiple subreddits for the top most mentioned stocks on reddit over a given time period.
+• Developed a front-end in React and react-bootstrap to display the top most mentioned stocks as well as average user sentiment, as well as links to the posts where the stocks were mentioned.
+• Developed an API using Spring to retrieve information from the MongoDB backend.</p>
+<p>TECHNICAL SKILLS</p>
+<p>Languages: PHP, C#, Java, Python, C/C++, SQL, JavaScript, HTML/CSS, ColdFusion, .Net
+Frameworks: React, Node.js, JUnit, Material-UI, Drupal, Spring, KoaJS, Typescript, Selenium, Next.js, SASS, ASP.NET
+Developer Tools: Git, Docker, AWS, VS Code, Unix, Visual Studio, PyCharm, IntelliJ, Jenkins, MongoDB</p>
+"""
+}
+{
+    "role": "Software Engineer",
+    "ID": "2", 
+    "link" : "https://www.reddit.com/r/resumes/comments/1n96m8i/3_yoe_fullstack_software_engineer_software",
+    "resume_text" : """<p>Name
+Full Stack Engineer
+email • linkedin • phone number</p>
+<p>TECHNICAL SKILLS</p>
+<p>Languages: Java, TypeScript, Javascript, Python, SQL
+Frameworks &amp; Tools: Spring Boot, Angular, Jenkins, GitHub Actions, GraphQL, React, Microservices Architecture, Pivotal Cloud Foundry, CloudBees
+Databases: Redis, Oracle Database, PostgreSQL</p>
+<p>PROFESSIONAL EXPERIENCE</p>
+<p>CONTRACTING COMPANY
+Software Engineer
+Remote
+JUN 2022-Present
+• Designed and implemented an Oracle-backed history-tracking database persisting all changes (values, timestamps, user IDs), enabling full auditability of business-critical data.
+• Maintained and enhanced internal REST APIs and Java/Spring Boot microservices managing high-volume Redis nodes persisted into Oracle databases, ensuring data accuracy.
+• Upgraded 8 Spring Boot micro-services from Java 11 → Java 17 with zero production downtime, ensuring seamless releases.
+• Developed and extended an enterprise Angular management UI, leveraging Java-based REST APIs and GraphQL, enabling advanced search, data views, and real-time insights.
+• Authored rollout documentation and co-led workshops that accelerated enterprise-wide GitHub Actions adoption across multiple teams.
+• Led the re-platforming of CI/CD pipelines from Jenkins/CloudBees to GitHub Actions for 16 applications, adding parallel jobs that cut deployment times by ≈40%.
+• Mentored junior developers on production deployment and DevOps best practices, improving team performance and reducing support issues.</p>
+<p>UNIVERSITY
+Tech Consultant
+City, State
+Mar 2018 - Jan 2019
+• Resolved software, hardware, and networking issues for students and faculty, maintaining high satisfaction through fast, reliable support via calls, chat, email, and in-person requests.
+• Created standardized logging templates and processes, improving ticket tracking accuracy and enabling data-driven operational improvements.</p>
+<p>EDUCATION</p>
+<p>COMMUNITY COLLEGE
+Associate of Arts and Sciences, Computer Programming/Programmer
+City, State
+Jan 2019 - Dec 2021
+• Completed coursework in Data Structures &amp; Algorithms, Database Design, and Systems Analysis &amp; Design.</p>
+"""
+}
+{
+    "role": "Software Engineer",
+    "ID": "3", 
+    "link" : "https://www.reddit.com/r/resumes/comments/1pcinbl/3_yoe_software_engineer_senior_software_engineer/",
+    "resume_text" : """<p>Named Person
+Software Engineer</p>
+<p>City, State | <a href="mailto:email@mail.com">email@mail.com</a> | /in/persona/</p>
+<p>Platform Engineering | Automation and Integrations</p>
+<p>Professional Summary
+Full-stack software engineer with experience owning projects, building scalable web applications, containerized microservices, and cloud-integrated solutions. Proven ability to build robust full stack applications, CI/CD pipelines and workflows, automating tasks to improve productivity. Skilled in JavaScript, React, Node.js, AWS, and Docker, with a strong foundation in testing, CI/CD, and collaborative agile development. Passionate about problem solving, delivering high-quality features, and growing technical expertise in SaaS and cloud-based environments.</p>
+<p>Work Experience
+Software Engineer same company – Remote Sept 2023 - Aug 2024
+• Integrated an AI workflow tool to evaluate github pull requests. By providing a precursory review speeding up developer response times and minimized time to review. Delivered this integration across all organization repositories, fulfilling company-wide OKRs and streamlining engineering workflows and compliance.
+• Executed a platform-wide migration of AWS SDK from v2 to v3. Updating all SDK calls for all AWS services in use including; S3,KMS,RDS , EC2, lamdas reducing bundle size, improving performance, and aligning with AWS best practices; Authored rollout guidelines to ensure consistent adoption across the organization’s teams.
+• Implemented an automated static code analysis and security scanning pipeline across all projects. Categorized findings by severity (Critical-Low), integrated output with GitHub Actions for inline PR comments, and visualized the results on AWS CloudWatch dashboards.</p>
+<p>Software Engineer (Contract) same company - Remote Jan 2022 - Sept 2023
+• Investigated and fixed a broken CI process that halted testing for 100+ job processors within a monolithic platform; Restored 100% test coverage and re-integrated test suites into the CI pipeline for continuous automated validation;
+• Designed and implemented a robust new API endpoint pattern for internal dashboards, supporting 30+ optional whitelisted query parameters; developed service layer logic with an extensible Sequelize ORM query generation pattern and ensured full unit and integration test coverage.
+• Consistently maintained and improved code quality across legacy and new code bases by applying best practices in design patterns, testing and code review processes.
+• Led the upgrade of the platform’s Node.js runtime from legacy versions to Node 16, ensuring uniformity and compatibility; maintained full test coverage and collaborated with cross functional teams to address breaking changes and resolve issues.</p>
+"""
+}
+{
+    "role": "Software Engineer",
+    "ID": "4", 
+    "link" : "https://www.reddit.com/r/resumes/comments/1okdueq/3_yoe_software_engineer_ii_software_engineer_iii/",
+    "resume_text" : """<p>WORK EXPERIENCE</p>
+<p>Software Engineer II, <company-3>                                                                 Dec 2024 - Present, <location>
+• Spearheading the development of <product>&#39;s embedded system software in an Agile environment, utilizing Qt and C++.
+• Debugging multi-threaded software using gdb-multiarch, analyzing system logs, and documenting code with Doxygen.
+• Improving release cycles by 20% by implementing and maintaining CI/CD pipelines, automating build, test, and release workflows.</p>
+<p>Software Engineer, <company-3>                                                                 May 2022 - Nov 2024, <location>
+• Collaborated with the team to transition the <product> build system from qmake to CMake, reducing build times by 25%.
+• Implemented features to create field boundaries, ensuring efficient chemical usage and preventing accidental sprays in waterways.
+• Enhanced a file conversion library, expanding support to JSON, CSV, and XML formats, ensuring 100% error-free conversions.
+• Mentored an intern in implementing the Delta-T quality measurement system to assess spray effectiveness based on weather conditions.</p>
+<p>Software Engineer Intern, <company-2>                                                        Sep 2021 - May 2022, <location>
+• Implemented on-device creation of geospatial vector data format shapefiles for the <feature-name> feature in <name> Operating Software.
+• Developed this highly-requested feature for the <product-name> product line using Qt and C++ in an Agile environment.
+• Improved the <feature-name> feature to make it more user-friendly and easier to discover enabling farmers to save 60% of their time.</p>
+<p>Software Engineer Intern, <company-2>                                                        May 2021 - Aug 2021, <location>
+• Collaborated in an Agile team of 8 to implement single sign-on for all 4 customer-facing apps for a secure user-authorization process.
+• Undertook displaying telemetry and generating alerts with Grafana to monitor load and throughput of critical services more closely.
+• Streamlined infrastructure with Terraform, reduced moving parts, refactored code, and improved documentation.</p>
+<p>Software Engineer Intern, <company-1>                                                        Feb 2020 - Jun 2020, <location>
+• Led a team of 4 to design, develop, deploy, and test a property-review website that gained 75+ users in the first month after launch.
+• Implemented Google Maps API to support location auto-completion when a user is searching for properties for faster results.
+• Utilized Firebase Authentication for user profiles and sending automated welcome emails through Mailchimp.</p>
+<p>SKILLS
+C++   Python   Rust   Swift   Java   JavaScript   SQL   Bash   ReactJS   CMake   Qt   QML   Terraform   AWS   Docker   Git</p>
+<p>EDUCATION</p>
+<p>BA Computer Science and Software Engineering, <University-Name>                                 Graduated May 2022</p>
+<p>Honors and Awards
+Global Leader Scholar, Slate Ronning International Scholar, Fred C. and J. Marie Christopherson Scholar, AURAFA Award Recipient</p>
+<p>PROJECTS</p>
+<p><Company Name>, Founder and Developer                                                        Oct 2023 - Present
+• Leading the re-branded development of <company-name> to bring an affordable, and communal mode of transportation to college campuses.
+• Collaborating with 3 college campuses to integrate <company-name>, delivering a tailored solution that meets the unique needs of each college.</p>
+<p><Company Name>, Tech Lead                                                                    Oct 2020 - Nov 2020
+• Led a team of 3 to develop an iOS app to help the elderly manage their chronic diseases and share regular updates with their doctor.
+• Utilized EMRs and Google&#39;s Text-to-Speech and Speech-to-Text to create a personalized experience for patients.
+• Won $9,000 along with an invitation to work with engineers at <hospital name > for further research and development of the project.</p>
+<p>LEADERSHIP AND AFFILIATIONS</p>
+<p><University-Name>, Trustee                                                                  Dec 2024 - Present
+• Serving as a trustee on the Board of Trustees at <institution>, focusing on the well-being of faculty, students, and staff.
+• Strengthening the Computer Science program, advancing international education, and driving entrepreneurial initiatives on campus.</p>
+<p>UnderdogDevs, Mentor                                                                       Dec 2023 - Present
+• Serving as a mentor to aspiring developers who are either formerly incarcerated or from an economically disadvantaged background.
+• Conducting weekly meetings with mentees to offer coding practice, interview preparation, resume analysis, and encouragement.</p>
+"""
+}
+{
+    "role": "Software Engineer",
+    "ID": "5", 
+    "link" : "https://www.reddit.com/r/resumes/comments/1ltfkrx/3_yoe_software_developer_solutions_engineer_irvine/",
+    "resume_text" : """<p>Skills</p>
+<p>Technologies Python, JavaScript, TypeScript, SQL, C#, Angular, Docker, Git, MySQL, Linux, Apache NiFi, Kafka, WebSockets
+Processes &amp; Tools Agile/Scrum, CI/CD, SDLC, Jira
+Strengths Stakeholder Engagement, Requirements Gathering, Technical Documentation
+Clearance Secret Security Clearance</p>
+<p>Experience</p>
+<p>Software Developer</p>
+<p>Technical Delivery
+- Designed and implemented advanced data filtering capabilities that improved operational decision-making by enabling targeted, real-time analysis across dynamic datasets.
+- Developed key user-facing features, including integrated chat, map overlays, and timezone-aware functionality, enhancing usability for global end users.
+- Contributed to all phases of the software development lifecycle, including requirements analysis, and defect resolution, ensuring timely and high-quality solution delivery.
+- Prototyped a Retrieval-Augmented Generation (RAG) chatbot to explore AI-driven user support, including a cloud deployment roadmap with scalability benchmarks and cost analysis.
+- Engineered real-time data pipelines using Kafka and WebSockets to connect machine learning outputs with front-end interfaces, enabling responsive and interactive user experiences.</p>
+<p>Collaboration
+- Partnered with stakeholders across government agencies and partner organizations to gather requirements and translate mission-critical needs into actionable, user-centered software features.
+- Delivered technical training and real-time support during live simulations and high-stakes field deployments, boosting user confidence and ensuring mission readiness under pressure.
+- Led product demonstrations and interactive Q&amp;A sessions with diverse stakeholders, accelerating validation cycles and incorporating user feedback into rapid development sprints.
+- Actively contributed to Agile delivery through sprint planning, daily standups, and retrospectives, helping the team identify blockers, iterate quickly, and improve delivery velocity.
+- Led peer code reviews and mentored junior developers, reinforcing coding standards and encouraging cross-functional collaboration.
+- Created and maintained technical documentation and onboarding materials, reducing ramp-up time for new engineers and empowering end users through self-service guides.</p>
+<p>Education</p>
+<p>B.S. Computer Science, Software Engineering (GPA: 3.7)</p>
+"""
+}
+{
+    "role": "Software Engineer",
+    "ID": "6", 
+    "link" : "https://www.reddit.com/r/resumes/comments/1kufzra/4_yoe_software_engineer_senior_software_engineer/",
+    "resume_text" : """<p>First Last – Software Engineer</p>
+<p>City, State, Zip | Phone | email</p>
+<p>Summary</p>
+<p>Full-stack Software Engineer with 4 years of experience designing cloud-native systems using Java, React, and Kafka. Recognized with [COMPANY 1] ‘Silver’ Award for outstanding contributions, including architectural leadership, performance optimization, and mentoring. Delivered production tools used by 15+ teams and systems processing 250K+ daily records.</p>
+<p>Experience</p>
+<p>COMPANY 1, City State | Software Engineer | 12/2023 - present
+• Developed features based on User Stories in high-volume, full-stack service that handles more than 250,000 Rx claims per day.
+• Targeted use of AI for Chat integration within new Internal Developer Portal initiative.
+• Spearheaded the automation of Integration Testing for production code, increasing developer productivity.
+• Architected comprehensive Apache Kafka Schema evolution patterns resulting in a 20% reduction in stream interruptions.
+• Built reusable React components leveraged by 10+ Product Teams, resulting in enhanced UI development design consistency.
+• Mentored 3 junior developers, helping to onboard quickly and begin making contributions to team repositories.</p>
+<p>COMPANY 2, City State | Software Engineer | 12/2021 – 12/2023
+• Implemented retry logic and resiliency in internal File Transfer app, reducing the number of file processing errors by 30%.
+• Authored detailed technical documentation about API specifications and system architecture that reduced onboarding time.
+• Migrated 15 CI/CD pipelines from Jenkins to GitHub Actions, using custom scripts, workflows, and deployment strategies.
+• Elevated code test coverage in team’s production repositories from below 70% to over 80%.
+• Refactored legacy Java code to enhance modern design patterns and code maintainability, reducing team technical debt.</p>
+<p>Skills &amp; Certifications</p>
+<p>Back-end: Java, Kotlin, Groovy, Gradle, Spring Framework, RESTful APIs, Microservices, Object-Oriented Programming (OOP)
+Front-end: TypeScript, React.js, UI/UX Design, State Management, Component Libraries, JavaScript, Material UI
+Cloud, DevOps, Automation: AWS, GCP, Serverless Architecture, IAM, Containerization, Kubernetes, Docker, GitHub Actions
+Databases and Messaging: SQL Database, MongoDB, MySQL, PostgreSQL, Apache Kafka, RabbitMQ, Data Streaming
+Security: Oauth 2.0, Authentication, Authorization, Key Management, HashiCorp Vault, CyberArk
+Certifications: AWS Certified Cloud Practitioner</p>
+<p>Projects</p>
+<p>PROJECT 1: Java | MongoDB | React | TypeScript
+• Developed features within full-stack prescription adjudication tool that processes 250,000+ records per day.
+• Integrated Single Sign On functionality and RBAC for all Users.
+• Optimized database calls for massive collections, reducing response time by up to 50%, paving the way for onboarding of major external clients.</p>
+<p>PROJECT 2: Java | PostgreSQL | React | TypeScript | Apache Kafka
+• Designed and deployed full-stack solution providing engineers with insights into deployed Kafka resources.
+• Created functionality for viewing Topic metadata and viewing and comparing differences between Schema versions.
+• Adopted and incorporated in Production by 15 internal Product Teams.</p>
+<p>Education</p>
+<p>UNIVERSITY 1, City State | Master’s Degree | 05/2019
+UNIVERSITY 2, City State | Bachelor’s Degree | 05/2017</p>
+"""
+}
+{
+    "role": "Software Engineer",
+    "ID": "7", 
+    "link" : "https://www.reddit.com/r/resumes/comments/1pgwi7m/4_yoe_unemployed_software_engineer_usa/",
+    "resume_text" : """<p>Work Experience</p>
+<p>Freelance Software Developer ___________________________ Remote | Mar 2022 – Aug 2025
+• Built high-performance web apps with Python, Django, and FastAPI, improving load speed and API response by 40%.
+• Designed RESTful APIs for seamless frontend and backend integration, reducing latency by 30%.
+• Integrated PostgreSQL, MySQL, and MongoDB with optimized queries and indexing.
+• Implemented secure user auth and email verification, reducing fraudulent sign-ups.
+• Deployed to AWS EC2/S3 with CI/CD pipelines for automated testing and delivery.
+• Performed unit, integration, and API testing using Pytest and Postman.</p>
+<p>Software Developer, ___________________________ PA | Dec 2020 – Jan 2022
+• Developed responsive apps with JavaScript, and React.js, improving load times by 35%.
+• Build Java/Spring Boot microservices with REST APIs for scalable solutions.
+• Integrated AWS Lambda and S3 for large-scale handling.
+• Optimized MySQL/PostgreSQL with advanced queries and schema tuning.
+• Automated testing with JUnit, Jest, and Selenium to reduce production bugs.
+• Deployed via Docker and AWS ECS using GitHub Action CI/CD.</p>
+<p>PROJECTS</p>
+<p>[Redacted] - IoT Smart Home Management System – Golang, MongoDB, React]
+• Developed a modular IoT smart home platform using Raspberry Pi and Zigbee, supporting integration with 15+ smart devices including lights, sensors, and thermostats.
+• Optimized communication protocols (MQTT/Zigbee) to reduce latency by 40%, enabling real-time control and monitoring.
+• Achieved 20% improvement in overall energy efficiency through system-wide automation and smart scheduling features</p>
+<p>[Ecommerce – Django, Django Rest Framework, JavaScript, AJAX]
+• Built a full-stack e-commerce platform with user authentication, product management, and order processing, supporting 100+ concurrent users during peak usage.
+• Designed and deployed a high-performance RESTful API using Django REST Framework, reducing page load times by 35% and improving user experience.</p>
+<p>SKILLS
+Technical Skills: Python, JavaScript, Java, Golang, SQL, MySQL, PostgreSQL, NoSQL, HTML, CSS.
+Frameworks: Django, Django Rest Framework, Spring Boot, Express.js, FastAPI, ReactJS, Flask.
+Development Tools: Git, GitHub, Docker, Kubernetes, Spark, AWS(EC2, S3, Lambda), Oracle.
+Methodologies: Agile, Scrum, TDD, CI/CD (Jenkins, GitHub Actions), Jira.</p>
+<p>EDUCATION
+PENNSYLVANIA STATE UNIVERSITY
+Bachelor of Science in Computer Science ___________________________ Abington, PA
+Relevant Coursework: Data Structures &amp; Algorithms, Software Engineering, Machine Learning, Discrete Mathematics, Compilers, Formal Languages, Operating Systems, Data Mining, Statistics.</p>
+"""
+}
+{
+    "role": "Software Engineer",
+    "ID": "8", 
+    "link" : "https://www.reddit.com/r/resumes/comments/1lh8cwp/4_yoe_software_application_development_engineer/",
+    "resume_text" : """Name
+Location | Phone Number | Email | 
+<p>SUMMARY
+Detail-oriented and results-driven software engineer with over 3 years of experience in designing, developing, and maintaining web applications and automation scripts using Python, TypeScript, and JavaScript frameworks. Demonstrated success in collaborating with cross-functional teams and delivering high-quality solutions in dynamic Agile environments, leading to increased operational efficiency and enhanced user experiences.</p>
+<p>WORK EXPERIENCE
+Software Application Development Engineer                January 2022 - Present
+Company 1 | Location
+• Developed a scalable Python program that automates Unix account checks for over 10,000 users, sending failure notifications and automatically resolving issues every two weeks, proactively catching potential problems before they impact account owners.
+• Developed a self-service platform that empowers users to independently resolve account and virtual machine-related issues, leading to a significant reduction in IT support tickets.
+• Implemented Python and Perl scripts for diagnosing and fixing account and virtual machine issues, improving operational efficiency and reducing manual intervention.</p>
+<p>Software Engineer Intern                                 June 2021 - December 2021
+Company 1 | Location
+• Developed a web application using Django to retrieve and display usage data from an Elasticsearch database, providing insights into the utilization and efficiency of high-performance computing systems for management reporting.
+• Migrated over 100 project repositories manually from Gerrit to GitHub Enterprise, ensuring repository placement, consistent naming conventions, and removal of unnecessary repositories.
+• Implemented a Python script to automate the secure transfer of sensitive files from local directories to a web storage tool, improving efficiency, reducing manual effort, and ensuring compliance with data security standards.</p>
+<p>Software Developer Intern                              April 2020 - September 2020
+Company 2 | Location
+• Built a visualization tool using PyQt5 to display semiconductor wafer test results in a heat map format, replacing a manual command-line Perl script process and improving efficiency in identifying pass/fail outcomes.
+• Prototyped a desktop tool using .NET and C# to demonstrate the feasibility of streamlining engineers’ access to manufacturing part information from MySQL and Oracle databases, laying the foundation for future development.</p>
+<p>SKILLS
+• Programming Languages: Python, TypeScript/JavaScript, Perl, C#, C++/C
+• Web Technologies: FastAPI, Angular, React, Django, Node.js, RESTful APIs, .NET, HTML, CSS, Bootstrap
+• Databases: MongoDB, MySQL, Oracle, Elasticsearch
+• Tools: Git, Docker, Cypress, Jenkins, JIRA
+• Methodologies: Agile, Scrum
+• Additional Skills: Fast-learner with strong communication, collaboration, and problem-solving skills</p>
+<p>EDUCATION
+Some Local University                                  Location
+Bachelor of Science in Computer Science                2017 - 2021</p>
+"""
+}
+{
+    "role": "Software Engineer",
+    "ID": "9", 
+    "link" : "https://www.reddit.com/r/resumes/comments/1guc27k/5_yoe_senior_software_engineer_engineer_united/",
+    "resume_text" : """<p>FirstName LastName</p>
+<p>github.com/myname | myname.com | linkedin.com/in/myname | 999-999-9999</p>
+<p>Summary
+Senior software engineer with 5 years of full-stack experience, most recently working with React, .NET, and AWS</p>
+<p>Skills
+Languages / Frameworks: React, Typescript, Next.js, JavaScript, C#
+Databases / Management Systems: MongoDB
+Technologies: Amazon Web Services (AWS), Node.js, .NET, GraphQL
+Spoken Languages: English, Spanish (C1)</p>
+<p>Experience
+Senior Full-Stack Engineer - Company Dec 2022 - Present</p>
+<ul>
+<li>Founding member of the developer team, responsible for building and maintaining front ends of all company products</li>
+<li>Created front end for Company’s flagship product using React, allowing 1000+ US municipalities to manage their compensation analyses, and generating over $2 million in revenue since September 2023</li>
+<li>Led the implementation of the Global Matching feature which fundamentally redefined the application’s core functionality, leading to a 90% adoption rate, and a ~15% boost in customer signups in under 5 months</li>
+<li>Facilitated data sharing between modern and legacy products using AWS EventBridge and Lambda, enhancing cross-product functionality and reducing customer friction</li>
+<li>Constructed a C# API leveraging Jira’s API to automate client ticket creation, optimizing new client onboarding</li>
+</ul>
+<p>Full-Stack Engineer - Company Jun 2021 - Dec 2022</p>
+<ul>
+<li>Launched 5 custom-built applications for multiple small businesses, establishing their online presence, increasing customer reach and resulting in a total revenue growth of 30% across all clients within the first year</li>
+<li>Migrated legacy systems to AWS, configuring services and aiding in data migration, to reduce maintenance costs</li>
+<li>Integrated third-party APIs for payment processing, reducing transaction failures and streamlining checkout</li>
+</ul>
+<p>Software Engineer - Freelance Jun 2019 - Jun 2021</p>
+<ul>
+<li>Designed and implemented a multi-tenant architecture for SaaS products, enabling clients to serve multiple customers on a single instance while ensuring data separation and security</li>
+<li>Implemented CI/CD pipelines using GitHub Actions, reducing deployment times and enabling zero-downtime releases</li>
+<li>Developed responsive applications with secure RESTful endpoints for APIs using API keys, OAuth, and JWTs</li>
+</ul>
+<p>Projects
+Project Fundraising Site - Live | Github - Next.js / GraphQL / Typescript / Stripe</p>
+<ul>
+<li>Leveraged GraphQL to fetch and mutate data, improving query efficiency by 40% by preventing over-fetching</li>
+<li>Incorporated Stripe’s webhook, fraud detection, and diverse payments for streamlined processing</li>
+<li>Integrated Keystone authentication with session management and role-based permissions for fundraisers and users</li>
+</ul>
+<p>The Project - Live | Github - React / Contentful / Apollo</p>
+<ul>
+<li>Created frontend for NYC filmmaking company, integrated with Contentful, increasing lead conversion by 50%</li>
+</ul>
+<p>Education
+College College, B.A. 2016
+University University 2013</p>
+"""
+}
+{
+    "role": "Software Engineer",
+    "ID": "10", 
+    "link" : "https://www.reddit.com/r/resumes/comments/1pndt5m/5_yoe_software_engineer_midlevelsenior_software/",
+    "resume_text" : """<p>First Last • (000) 999 9999 • linkedin.com/in/firstlast• Houston, TX – 77025</p>
+<p>EXPERIENCE:</p>
+<p>Mid-Level Saas Company
+Software Engineer
+Oct 2021 – Present
+Houston, TX
+• Developed and integrated LLM-powered C# plugins via Azure OpenAI to optimize backend data flow, improving data access efficiency by 40% for a [REDACTED] management platform serving 80+ international sites.
+• Architected and developed the [REDACTED] Scheduling Portal, enabling digital timeslot reservations by bridging SAP and OT networks via a DMZ-deployed service, resulting in 80% reduction in average carrier wait times &amp; unplanned arrivals.
+• Owned end-to-end development of backend automation infrastructure (Email, Print, FTP) using C#/.NET and Azure Functions, enabling fully automated and compliant transaction closure.
+• Led and mentored a team of developers responsible for development and successful deployment of client host systems.
+• Utilized Azure SQL Database and Cosmos DB for data modelling and storage, improving query performance by 30%.</p>
+<p>Same Mid-Level Saas Company
+Software Developer
+Sep 2020 – Oct 2021
+Houston, TX
+• Developed a multi-tenant Single Page Application (SPA) for [REDACTED] Management and Task Automation System using Angular 12, REST API, WebSocket, SignalR, RabbitMQ, .NET6, Entity Framework (EF) Core, MS SQL.
+• Migrated host system software, application infrastructure, and databases to Microsoft Azure Cloud platform to ensure high up time and reduce data latency.
+• Transpiled and enhanced 15+ legacy microservices from Visual Basics and C++ to C#, .NET and .NET Core.
+• Designed database schemas, stored procedures, and queries with SQL Server and LINQ, optimizing data retrieval time by 25%.
+• Followed Agile-Scrum development methodology and ensured participation in all phases of Software Development Life Cycle.
+• Streamlined and managed version control, repositories, and pipelines in Azure DevOps, cutting deployment time by 80%.</p>
+<p>EDUCATION:</p>
+<p>[REDACTED]
+Master of Science in Computer Engineering
+City, State
+May 2020</p>
+<p>[REDACTED]
+Post Graduate Diploma in Advanced Computing
+City, Country/State
+Feb 2018</p>
+<p>[REDACTED]
+Bachelor of Engineering in Electronics Engineering
+City, Country/State
+July 2016</p>
+<p>SKILLS:
+Languages: C#, JavaScript, HTML5, CSS3, Apex, SQL, SOQL, SOSL.
+Frameworks &amp; Libraries: .NET Core, .NET Framework, Angular, Entity Framework, LINQ, RabbitMQ, MSMQ, LWC, Aura.
+Databases: MS SQL, SQL Server, Azure SQL, MySQL, Azure Cosmos DB, MongoDB, Redis
+Cloud Services: Azure - App Services, Functions, Storage, VMs
+AI/ML Tools: Ollama, Azure OpenAI, Semantic Kernel.
+Tools: Visual Studio, Eclipse, Postman, Git, GitHub, Azure DevOps, Docker, IIS, Salesforce platform.</p>
+<p>CERTIFICATION:
+• Microsoft Certified: Azure Developer Associate (AZ - 204) Oct 2025
+• Salesforce Certified Platform Developer I (PD1) June 2025
+• Salesforce Certified Administrator (ADM 201) May 2025</p>
+"""
+}

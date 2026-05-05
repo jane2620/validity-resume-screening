@@ -1,0 +1,11 @@
+{
+  "roles": [
+    "DevOps Engineer"
+  ],
+  "per_role_target": 100,
+  "require_basic": 0,
+  "require_bonus": 0,
+  "counts": {
+    "DevOps Engineer": 40
+  }
+}

@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 *.so
 .Python
-build/
 develop-eggs/
 dist/
 downloads/
@@ -35,7 +34,6 @@ env/
 .DS_Store
 
 # Large data files and results
-data/
 evaluations/
 logs/
 
